@@ -1,10 +1,10 @@
-# 🌊 AquaSafe – Smart Waterborne Disease Monitoring System
+#  AquaSafe – Smart Waterborne Disease Monitoring System
 
 AquaSafe is a smart web-based health surveillance system designed to monitor and analyze water-borne diseases in rural areas. It helps in digital patient record management, real-time analytics, and visualization of disease patterns through an interactive dashboard.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - User Registration & Login System  
 - Add, Edit, Delete Patient Records  
@@ -18,7 +18,7 @@ AquaSafe is a smart web-based health surveillance system designed to monitor and
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Backend:** Flask (Python)  
 - **Frontend:** HTML, Bootstrap  
@@ -27,7 +27,7 @@ AquaSafe is a smart web-based health surveillance system designed to monitor and
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 - Total Patients Count  
 - Total Villages Covered  
@@ -37,13 +37,13 @@ AquaSafe is a smart web-based health surveillance system designed to monitor and
 
 ---
 
-## ⚠️ High Risk Logic
+##  High Risk Logic
 
 Villages having **3 or more patients** are automatically marked as **High Risk Areas**, helping in early detection of possible disease outbreaks.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 AquaSafe/
 │── app.py
 │── config.py
@@ -54,13 +54,13 @@ AquaSafe/
 
 ---
 
-## 🎯 Project Objective
+##  Project Objective
 
 To digitize rural health monitoring systems and provide quick insights into water-borne disease spread for better healthcare decision-making.
 
 ---
 
-## 📈 Future Enhancements
+##  Future Enhancements
 
 - SMS / Email Alerts for outbreaks  
 - AI-based disease prediction  
@@ -69,7 +69,7 @@ To digitize rural health monitoring systems and provide quick insights into wate
 
 ---
 
-## 👨‍💻 Developer
+##  Developer
 
 **Abhinandana**  
 B.Tech / Engineering Student  
