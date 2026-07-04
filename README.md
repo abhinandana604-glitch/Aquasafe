@@ -76,10 +76,10 @@ B.Tech / Engineering Student
 
 ---
 
-## 🏁 Conclusion
+## Conclusion
 
 AquaSafe helps in early detection of water-borne diseases and provides data-driven insights to improve rural healthcare systems.
 
 ---
 
-## ⭐ Thank You
+## Thank You
